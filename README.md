@@ -18,8 +18,9 @@ Welcome to the Machine Learning Algorithms Playground repository by DeepScripts!
 ## Algorithms Covered
 
 1. **Linear Regression**:
-   - [Notebook](linear_regression.ipynb)
+   - [Notebook](https://github.com/DeepScripts/Machine-Learning/blob/main/linear%20regression.ipynb)
    - Description: Linear regression is a basic and commonly used type of predictive analysis that examines the linear relationship between two variables.
+
 
 2. **Logistic Regression**:
    - [Notebook](logistic_regression.ipynb)
